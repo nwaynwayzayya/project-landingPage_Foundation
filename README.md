@@ -1,6 +1,5 @@
-# project-landingPage_Foundation
 # Landing Page Project
-# By Nway Nway Zay Ya
+By Nway Nway Zay Ya
 
 This is a landing page project built as part of [The Odin Project's](https://www.theodinproject.com/) Foundations course. The goal was to replicate a provided design mockup (PNG) using only HTML and CSS.
 
@@ -26,6 +25,11 @@ This is a landing page project built as part of [The Odin Project's](https://www
 
 - HTML5
 - CSS3 (Flexbox)
+
+## 📸 Screenshot
+
+![Landing Page Screenshot](./images/landing-page.png)
+
 
 ## 🎯 Future Improvements
 
